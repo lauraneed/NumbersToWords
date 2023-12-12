@@ -1,0 +1,14 @@
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\bin\Debug\net8.0\secondattemptstow-n.exe
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\bin\Debug\net8.0\secondattemptstow-n.deps.json
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\bin\Debug\net8.0\secondattemptstow-n.runtimeconfig.json
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\bin\Debug\net8.0\secondattemptstow-n.dll
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\bin\Debug\net8.0\secondattemptstow-n.pdb
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\secondattemptstow-n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\secondattemptstow-n.AssemblyInfoInputs.cache
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\secondattemptstow-n.AssemblyInfo.cs
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\secondattemptstow-n.csproj.CoreCompileInputs.cache
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\secondattemptstow-n.dll
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\refint\secondattemptstow-n.dll
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\secondattemptstow-n.pdb
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\secondattemptstow-n.genruntimeconfig.cache
+C:\Netprojects\secondattemptstow-n\secondattemptstow-n\obj\Debug\net8.0\ref\secondattemptstow-n.dll
